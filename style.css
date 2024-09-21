@@ -1,0 +1,41 @@
+main{
+    margin: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 450px;
+    border: 2px solid black;
+    border-left: 4px solid;
+    padding: 10px;
+}
+h1{
+    font-size: 45px;
+}
+.panda{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+.panda img{
+    width: 90%;
+    border-radius: 50%;
+    padding: 20px;
+}
+.panda p{
+    font-size: 20px;
+    color: rgb(121, 121, 121);
+}
+h3{
+    font-family: "Pixelify Sans";
+    font-size: 35px;
+}
+.panda h3{
+    color: #b2be61;
+    margin: 0px;
+}
+#year{
+    color: black;
+}
